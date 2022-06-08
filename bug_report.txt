@@ -1,1 +1,11 @@
+ug_id: 1
+Title: The w (up) key does not work
 
+  Severity: High
+  Priority: High
+
+STR:
+  1) Press the w key on the keyboard
+
+AR: The snake does not turn up using the w key. (Using the E key only)
+ER: The snake turns up using the w key
