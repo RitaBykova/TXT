@@ -1,0 +1,5 @@
+	FIO: Bykova Rita Ravilievna
+		Age: 19
+		Animal: 1
+		Salary: 100
+
